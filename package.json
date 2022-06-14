@@ -1,0 +1,23 @@
+{
+  "name": "trim-all",
+  "version": "1.0.1",
+  "description": "Remove extra whitespace from a string. Whitespace runs replaced with a single space. Whitespace removed from beginning and end of string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasbg/trim-all.git"
+  },
+  "keywords": [
+    "trim",
+    "whitespace"
+  ],
+  "author": "Nick Burke-Gaffney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasbg/trim-all/issues"
+  },
+  "homepage": "https://github.com/nicholasbg/trim-all"
+}
