@@ -12,6 +12,6 @@
  * `);
  * @output "Darkwing Duck When there's trouble you Call DW"
  */
-module.exports = function trimAll(str) {
+export default function trimAll(str) {
   return str.replace(/\s+/g, " ").trim();
-};
+}
